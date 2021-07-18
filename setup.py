@@ -6,16 +6,16 @@ from setuptools import setup, find_packages
 
 packages = list(open('requirements.txt').readlines())
 setup(
-    name='retinaface',
+    name='retinaface_tf2',
     version='0.0.6',
     author='HEESEUNG KIM',
-    author_email='heewin.kim@gmail.com',
+    author_email='boyanenivratti@gmail.com',
     description='face detector',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     license='MIT',
-    url='https://github.com/heewinkim/retinaface',
-    download_url='https://github.com/heewinkim/retinaface/archive/master.zip',
+    url='https://github.com/Nivratti/retinaface_tf2',
+    download_url='https://github.com/Nivratti/retinaface_tf2.git/archive/master.zip',
     packages=find_packages(),
     install_requires=open('requirements.txt').readlines(),
     package_data={'':['*']},
