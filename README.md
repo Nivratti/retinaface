@@ -1,4 +1,6 @@
-# [RetinaFace](https://github.com/heewinkim/retinaface)
+# [RetinaFace_TF2](https://github.com/heewinkim/retinaface)
+ 
+ (Renamed to avoid conflicts with deepface repo retinaface)
  
  face detector with landmarks, RetinaFace PyPI implement
  
