@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     license='MIT',
     url='https://github.com/Nivratti/retinaface_tf2',
-    download_url='https://github.com/Nivratti/retinaface_tf2.git/archive/master.zip',
+    download_url='https://github.com/Nivratti/retinaface_tf2/archive/master.zip',
     packages=find_packages(),
     install_requires=open('requirements.txt').readlines(),
     package_data={'':['*']},
